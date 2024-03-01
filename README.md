@@ -1,5 +1,5 @@
 ## Proiect-Tehnici-Web
-Acest proiect reprezintă o aplicație web dedicată fanilor echipei Paris Saint-Germain. Scopul principal este de a oferi informații actualizate despre echipă, meciuri viitoare și rezultate, într-o manieră interactivă și ușor de navigat.
+Acest proiect reprezintă o aplicație web dedicată fanilor echipei Paris Saint-Germain. Scopul principal este de a oferi informații actualizate despre echipă, într-o manieră interactivă și ușor de navigat.
 
 # Caracteristici:
 - Design Responsiv: Pagina web este complet responsivă, oferind o experiență de utilizare excelentă pe dispozitive de toate dimensiunile.
