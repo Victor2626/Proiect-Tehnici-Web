@@ -5,7 +5,7 @@ Acest proiect reprezintă o aplicație web dedicată fanilor echipei Paris Saint
 - Design Responsiv: Pagina web este complet responsivă, oferind o experiență de utilizare excelentă pe dispozitive de toate dimensiunile.
 - Interactivitate: Utilizarea JavaScript-ului pentru a adăuga dinamism site-ului, cum ar fi afișarea scorurilor live, actualizări ale echipei și interacțiuni utilizator.
 - Stilizare Modernă: CSS-ul este folosit pentru a aduce un design modern și atractiv, evidențiind culorile și logo-ul echipei PSG.
-## Tehnologii Utilizate
+## Tehnologii Utilizate:
 - HTML5
 - CSS3
 - JavaScript
