@@ -1,11 +1,11 @@
-## Proiect-Tehnici-Web
-Acest proiect reprezintă o aplicație web dedicată fanilor echipei Paris Saint-Germain. Scopul principal este de a oferi informații actualizate despre echipă, într-o manieră interactivă și ușor de navigat.
+## Project-Web-Techniques
+This project represents a web application dedicated to the fans of the Paris Saint-Germain team. The main goal is to provide updated information about the team, in an interactive and easy-to-navigate manner.
 
-# Caracteristici:
-- Design Responsiv: Pagina web este complet responsivă, oferind o experiență de utilizare excelentă pe dispozitive de toate dimensiunile.
-- Interactivitate: Utilizarea JavaScript-ului pentru a adăuga dinamism site-ului, cum ar fi afișarea scorurilor live, actualizări ale echipei și interacțiuni utilizator.
-- Stilizare Modernă: CSS-ul este folosit pentru a aduce un design modern și atractiv, evidențiind culorile și logo-ul echipei PSG.
-## Tehnologii Utilizate:
+# Features:
+- Responsive Design: The web page is fully responsive, offering an excellent user experience on devices of all sizes.
+- Interactivity: Using JavaScript to add dynamism to the site, such as displaying live scores, team updates, and user interactions.
+- Modern Styling: CSS is used to bring a modern and attractive design, highlighting the colors and logo of the PSG team.
+## Used Technologies:
 - HTML5
 - CSS3
 - JavaScript
